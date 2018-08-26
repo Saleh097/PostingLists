@@ -1,1 +1,1 @@
-# PostingLists
+Posting Lists structures can be used for Information Retrieval purposes.

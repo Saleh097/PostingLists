@@ -1,0 +1,1 @@
+before perform any operation uses skip pointers, setSkipPointers() method should be called.
